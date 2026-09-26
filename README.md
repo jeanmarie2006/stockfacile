@@ -3,6 +3,9 @@
 Application de gestion de stock pour un petit commerce (boutique, quincaillerie, épicerie) : suivi des produits,
 des entrées et sorties, alertes de rupture et bons de commande. Projet n°4 du cahier des charges « 9 projets fictifs ».
 
+**🔗 Démo en ligne :** https://mes-apps.wuaze.com/stockfacile/ — **📲 Installer l’application** (mobile, tablette, ordinateur) : https://mes-apps.wuaze.com/stockfacile/installer
+
+
 ![Tableau de bord](docs/tableau-de-bord.png)
 ![Produits en alerte](docs/produits.png)
 ![Mouvement de stock](docs/mouvement.png)
